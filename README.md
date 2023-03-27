@@ -29,3 +29,10 @@ Price: Selling_price, RRP price (actual price withpout discount)
 8. Calculate outlier Possibility feature
 9. Share products with high possibilities in a PowerBI Dashboard
 
+### Modeling Problems:
+1. Rule based anomaly detection for historical products
+2. Number of items in each DKPC
+3. Luxury products exclusion problem 
+### Technical Problems:
+1. Memory error while running DBSCAN for finding anomalies
+2. Storage and data processing problems
