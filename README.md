@@ -29,10 +29,11 @@ Price: Selling_price, RRP price (actual price withpout discount)
 8. Calculate outlier Possibility feature
 9. Share products with high possibilities in a PowerBI Dashboard
 
-### Outlier detection on:
-1. Leaf category-cluster level
-2. leaf category-brand level
-![Untitled](images/container.png)
+![Untitled](images/np.png)
+
+![Untitled](images/clusteringzProductsOnLeafCategoryLevel.png)
+
+![Untitled](images/outlierDetection.png)
 
 
 ### Modeling Problems:
