@@ -31,7 +31,11 @@ Price: Selling_price, RRP price (actual price withpout discount)
 
 ![Untitled](images/np.png)
 
+---
+
 ![Untitled](images/clusteringzProductsOnLeafCategoryLevel.png)
+
+---
 
 ![Untitled](images/outlierDetection.png)
 
