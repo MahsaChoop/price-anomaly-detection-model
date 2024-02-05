@@ -1,4 +1,4 @@
-# price-anomaly-detection-model
+# Price-Anomaly-Detection-model
 a price anomaly detection model for marketplace e-commerce company
 
 
