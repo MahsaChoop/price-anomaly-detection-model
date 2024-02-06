@@ -27,7 +27,7 @@ Price: Selling_price, RRP price (actual price withpout discount)
 6. Calculate 4 statistical feature
 7. Calculate maximum approved price per leaf category (based on pricing agents’ feedback)
 8. Calculate outlier Possibility feature
-9. Share products with high possibilities in a PowerBI Dashboard
+9. Share products with high possibilities in a PowerBI Dashboard.
 
 ![Untitled](images/np.png)
 
